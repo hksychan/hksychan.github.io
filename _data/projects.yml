@@ -2,8 +2,7 @@
   name: Super awesome project
   link: github.com/hksychan/mitproject
   github: hksychan.github.io
-  quote: <
-    Some MIT projects I have been working or worked during my course of studying at MIT Sloan
   description: | # this will include new lines to allow paragraphs
+    Some MIT projects I have been working or worked during my course of studying at MIT Sloan
     1) Naive long/short trading strategy with specific twists to improve returns and tackle non-stationary issue. 
     2) Text classification with multi-categories/lables
