@@ -9,6 +9,14 @@
    Hong Kong Cyberport Incubatee.
 
 - layout: left
+  company: Jadeite Research
+  job_title: Founder
+  dates: November 2018 - Now
+  description: | # this will include new lines to allow paragraphs
+   Independent research house dedicated to cryptocurreny research. |
+   Download our Cryptocurrency Outlook 2019 here: https://jadeiteresearch.co/our-research
+
+- layout: left
   company: SmartUp Incubator
   job_title: Co-founder/CIO
   dates: November 2018 - May 2019
