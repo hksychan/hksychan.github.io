@@ -6,3 +6,4 @@
     Some MIT projects I have worked throughout my course of studies at MIT Sloan.
     1) Naive long/short trading strategy with specific twists to improve returns and tackle non-stationary issue. 
     2) Text classification with multi-categories/lables
+    3) Online/real-time content recommendation using multi-armed Bandits models
