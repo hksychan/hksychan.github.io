@@ -2,6 +2,7 @@
   company: Fetch
   job_title: Investor/Advisor
   dates: April 2018 - Now
+  link: www.fetchawish.com
   description: | # this will include new lines to allow paragraphs
    Formulated go-to-market strategy. |
    Revised business model to drive double digit MAU growth. |
@@ -14,7 +15,7 @@
   dates: November 2018 - Now
   description: | # this will include new lines to allow paragraphs
    Independent research house dedicated to cryptocurreny research. |
-   Download our Cryptocurrency Outlook 2019 here: <link>https://jadeiteresearch.co/our-research</link>
+   Download our Cryptocurrency Outlook 2019 here: https://jadeiteresearch.co/our-research
 
 - layout: left
   company: SmartUp Incubator
