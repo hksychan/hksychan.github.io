@@ -1,16 +1,22 @@
 - layout: left
-  company: SmartUp Incubator
-  job_title: Co-founder/CIO
-  dates: November 2018 - May 2019
-  description: | # this will include new lines to allow paragraphs
-   Incubating up-and-coming blockchain start-ups in Greater China. |
-   An interesting experiment and experience for me to work in a start-up environment.
-   
-- layout: left
   company: Fetch
   job_title: Investor/Advisor
   dates: April 2018 - Now
   description: | # this will include new lines to allow paragraphs
    Formulated go-to-market strategy. | Revised business model to drive double digit NAU growth.
    An on-demand P2P cross-border delivery platform (social logistics). | Hong Kong Cyberport Incubatee.
+
+- layout: left
+  company: SmartUp Incubator
+  job_title: Co-founder/CIO
+  dates: November 2018 - May 2019
+  description: | # this will include new lines to allow paragraphs
+   Incubating up-and-coming blockchain start-ups in Greater China. | An interesting experiment and experience for me to work in a start-up environment.
+   
+- layout: left
+  company: Various investment banks (JPM, Barclays, UBS)
+  job_title: Equity Research Analyst
+  dates: October 2007 - August 2018
+  description: | # this will include new lines to allow paragraphs
+  Lead coverage analyst for the Greater China FIG sector. 
   
