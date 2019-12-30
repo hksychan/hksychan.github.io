@@ -41,11 +41,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in investment and hard tech/science some of my other interests and hobbies are:
+  Alongside my interests in investment and hard tech/science, some of my other interests and hobbies are:
    - Table Tennis
    - Gaming
    - Marathon
    - EDM / Future House 
+   - Contemporary Arts
 
 # Footer
 footer_show_references: true
