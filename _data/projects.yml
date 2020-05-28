@@ -4,6 +4,7 @@
   github: hksychan
   description: | # this will include new lines to allow paragraphs
     Some coding projects I have done at MIT Sloan: 
-    1) Market neutral long/short trading strategy. 
-    2) Text classification with multi-category/label.
-    3) Online/real-time content recommendation using multi-armed Bandits models.
+    1) Market neutral long/short trading strategy
+    2) Text classification with multi-category/label
+    3) Online/real-time content recommendation using multi-armed Bandits models
+    4) Earning's seasonality trade 
